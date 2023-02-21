@@ -22,8 +22,8 @@
 
 <h2 align="center">Redes Sociais</h2>
 <div align="center">
-  <a href="https://www.facebook.com/rafaeltibarbosa/"><img width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
-  <a href="https://twitter.com/rafaeltibarbosa"><img width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-  <a href="https://www.instagram.com/feliperasan/"><img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
-  <a href="https://www.linkedin.com/in/rafaeltibarbosa/"><img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://www.facebook.com/rafaeltibarbosa/" target="_blank"><img width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+  <a href="https://twitter.com/rafaeltibarbosa" target="_blank"><img width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+  <a href="https://www.instagram.com/feliperasan/" target="_blank"><img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
+  <a href="https://www.linkedin.com/in/rafaeltibarbosa/" target="_blank"><img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
