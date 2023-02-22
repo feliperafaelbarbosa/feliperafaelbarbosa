@@ -29,5 +29,5 @@
 </div>
 <h2 align="center">🌐 Website</h2>
 <div align="center">
-  <a href="www.feliperafael.com.br">www.feliperafael.com.br</a>
+  https://www.feliperafael.com.br/
 </div>
