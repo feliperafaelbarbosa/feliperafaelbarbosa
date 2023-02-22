@@ -27,3 +27,7 @@
   <a href="https://www.instagram.com/feliperasan/" target="_blank"><img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a>
   <a href="https://www.linkedin.com/in/rafaeltibarbosa/" target="_blank"><img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
+<h2 align="center">🌐 Website</h2>
+<div align="center">
+  <a href="www.feliperafael.com.br">www.feliperafael.com.br</a>
+</div>
