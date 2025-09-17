@@ -39,7 +39,7 @@
 - 💡 **Soluções Inovadoras** - Ponte entre academia e mercado
 
 <br clear="right"/>
-
+<br/>
 <div align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=feliperafaelbarbosa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
