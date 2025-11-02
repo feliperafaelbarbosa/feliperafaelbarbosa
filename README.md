@@ -32,10 +32,10 @@
 - 📚 Aprendendo novas tecnologias e melhores práticas
 
 ### 🚀 Experiência
-- 💼 **Desenvolvimento Java** - Soluções empresariais robustas
-- 🐍 **Python & Data Science** - Análise de dados e machine learning
+- 💼 **Desenvolvimento Java** - Desenvolvi Soluções empresariais
+- 🐍 **Python & Data Science** - Análisei dados e métricas de modelos de ML
 - 🎓 **Pesquisa Acadêmica** - Contribuições em Ciência da Computação
-- 💡 **Soluções Inovadoras** - Ponte entre academia e mercado
+- 💡 **Escrita Ciêntifica** - Escrevi artigos e trabalhos acadêmicos
 
 <br clear="right"/>
 <br/>
