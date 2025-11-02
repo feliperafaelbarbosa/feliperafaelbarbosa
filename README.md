@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-**Mestre em Ciência da Computação**, com experiência de mercado e acadêmica no desenvolvimento de soluções utilizando a **Linguagem Java**, como também possuo conhecimento sólido em **Python** e bibliotecas de ciência de dados. No entanto, no momento estou focando em desenvolvimento **Mainframe COBOL** e **IaC** (Infrastructure as Code).
+**Mestre em Ciência da Computação**, com experiência de mercado e acadêmica no desenvolvimento de soluções utilizando a **Linguagem Java**, como também possuo conhecimento sólido em **Python** e bibliotecas de ciência de dados. No entanto, no momento estou focando em desenvolvimento **IaC** (Infrastructure as Code).
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
