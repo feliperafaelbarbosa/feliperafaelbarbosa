@@ -28,9 +28,8 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ### 🎯 Foco Atual
-- 🔭 **Mainframe COBOL** - Modernização de sistemas legados
 - ☁️ **Infrastructure as Code (IaC)** - Automação e provisionamento
-- 📚 Sempre aprendendo novas tecnologias e melhores práticas
+- 📚 Aprendendo novas tecnologias e melhores práticas
 
 ### 🚀 Experiência
 - 💼 **Desenvolvimento Java** - Soluções empresariais robustas
